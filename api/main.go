@@ -14,7 +14,7 @@ import (
 )
 
 // 在这里填写你的cookie
-const COOKIE = "your_cookie_here"
+const COOKIE = ""_ga=GA1.1.406121063.1739542075; _u_p="!w9NhM0mvCuKRv4o3xlXxQ3z5p+eaAkpv0I+xQmRZ6Fc=?eyJ1aWQiOiA1NzQ3NzAwfQ=="; _a_p="!btjZwmjgZUOOVxYJBrQldxjsPRV9EcIjA061+2LxcF4=?eyJ1aWQiOiAtMX0="; _s_p="!a5Xz4aaIF2Vfb6rFhCGQdnSeC4tRtMBsnmzszQ1Z3tc=?eyJhbm9uIjogImY2MTA2MTZhLWY5YzMtNGNlZC1hMDFiLWY2MTEzMThjNTU1ZCIsICJzZXNzaW9uX3RpbWVzdGFtcCI6IDE3Mzk2MTE4MDAuMCwgInBhc3N3b3JkX3ZlcnNpb24iOiAyLCAic3NvX2luZm8iOiB7fSwgInNlc3Npb25faWQiOiAxMjI5NTk0MH0="; _ss_p="!uT0qOP/eCyszle2OWZQQcGVM925Ig+vEgM5crODtoxs=?e30="; _ga_NM4YZNYB7G=GS1.1.1739611404.5.1.1739611826.60.0.0
 
 // 简化后的模型列表
 var MODEL_LIST = []string{
